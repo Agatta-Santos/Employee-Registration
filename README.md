@@ -1,4 +1,4 @@
-## Sistema de Cadastro de Funcionários em Python
+# Sistema de Cadastro de Funcionários em Python
 
 Este projeto consiste em um sistema simples de terminal para o **cadastro** e **listagem de funcionários**, utilizando Python e armazenando os dados em um arquivo `.csv`.
 
@@ -6,7 +6,7 @@ Foi desenvolvido com o objetivo de demonstrar conhecimentos básicos de **entrad
 
 ---
 
-## Funcionalidades
+# Funcionalidades
 
 - Cadastro de funcionários (nome, cargo, data de admissão)
 - Validação da data de admissão (formato DD/MM/AAAA)
@@ -16,10 +16,10 @@ Foi desenvolvido com o objetivo de demonstrar conhecimentos básicos de **entrad
 
 ---
 
-## Como Executar
+# Como Executar
 
 1. Certifique-se de ter o Python 3 instalado na máquina.
 2. Execute o script no terminal com:
 
 ```bash
-python cadastro_funcionarios.py
+python employee-registration.py
