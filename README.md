@@ -22,4 +22,4 @@ Foi desenvolvido com o objetivo de demonstrar conhecimentos básicos de **entrad
 2. Execute o script no terminal com:
 
 ```bash
-python cadastro_funcionarios.py
+python employee-registration.py
